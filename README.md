@@ -1,6 +1,8 @@
-Hello!
+Hello! I am Nikolai, ICT student & software developer living in 🇫🇮 Espoo.
 
-My name is Nikolai Zakharov, welcome to my GitHub page.
+My main languages are TypeScript and C#.
 
-Personal website: [https://www.ptchtrns.com/](https://www.ptchtrns.com/)
+Links:
 
+[Personal website](https://www.ptchtrns.com/)
+[SimPictures](https://www.simpictures.com/)
