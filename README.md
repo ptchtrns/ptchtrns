@@ -4,7 +4,7 @@ ICT student at **Metropolia University of Applied Sciences**, based in 🇫🇮 
 
 I design and build websites and web apps end to end, from simple landing pages to complex, creatively designed projects. Right now I'm expanding into **IoT and embedded systems**.
 
-## 🛠️ What I do
+## What I do
 
 - **Web design & development** with a focus on accessibility, responsiveness and performance
 - Original design that avoids the generic, templated look
